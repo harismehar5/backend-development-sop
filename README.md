@@ -5,12 +5,12 @@ This document outlines the standards for building scalable, maintainable, and se
 ## Table of Contents
 
 1. [Directory Structure & Module Isolation](#1-directory-structure--module-isolation)
-2. [Naming Conventions & File Standards](https://www.google.com/search?q=%232-naming-conventions--file-standards)
-3. [Data Transfer Objects (DTOs) & Validation](https://www.google.com/search?q=%233-data-transfer-objects-dtos--validation)
-4. [Service Layer & Business Logic](https://www.google.com/search?q=%234-service-layer--business-logic)
-5. [Database Management (Prisma)](https://www.google.com/search?q=%235-database-management-prisma)
-6. [Error Handling & Logging](https://www.google.com/search?q=%236-error-handling--logging)
-7. [Security & Authentication](https://www.google.com/search?q=%237-security--authentication)
+2. [Naming Conventions & File Standards](#2-naming-conventions--file-standards)
+3. [Data Transfer Objects (DTOs) & Validation](#3-data-transfer-objects-dtos--validations)
+4. [Service Layer & Business Logic](#4-service-layer--business-logic)
+5. [Database Management (Prisma)](#5-database-management-prisma)
+6. [Error Handling & Logging](#6-error-handling--logging)
+7. [Security & Authentication](#7-security--authentication)
 
 ---
 
