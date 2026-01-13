@@ -4,7 +4,7 @@ This document outlines the standards for building scalable, maintainable, and se
 
 ## Table of Contents
 
-1. [Directory Structure & Module Isolation](https://www.google.com/search?q=%231-directory-structure--module-isolation)
+1. [Directory Structure & Module Isolation](#1-directory-structure--module-isolation)
 2. [Naming Conventions & File Standards](https://www.google.com/search?q=%232-naming-conventions--file-standards)
 3. [Data Transfer Objects (DTOs) & Validation](https://www.google.com/search?q=%233-data-transfer-objects-dtos--validation)
 4. [Service Layer & Business Logic](https://www.google.com/search?q=%234-service-layer--business-logic)
