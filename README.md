@@ -6,7 +6,7 @@ This document outlines the standards for building scalable, maintainable, and se
 
 1. [Directory Structure & Module Isolation](#1-directory-structure--module-isolation)
 2. [Naming Conventions & File Standards](#2-naming-conventions--file-standards)
-3. [Data Transfer Objects (DTOs) & Validation](#3-data-transfer-objects-dtos--validations)
+3. [Data Transfer Objects (DTOs) & Validation](#3-data-transfer-objects-dtos--validation)
 4. [Service Layer & Business Logic](#4-service-layer--business-logic)
 5. [Database Management (Prisma)](#5-database-management-prisma)
 6. [Error Handling & Logging](#6-error-handling--logging)
